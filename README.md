@@ -21,7 +21,7 @@ A/B testing technique is not hard in terms of translating data to insights but i
   <br>
   <br>
   ## Brand's communication subscription churn analysis <br>
-This project aims to decipher customer churn behaviors to business' communication programs across multiple channels (Email, SMS, Push).
+This project aims to analyze customer churn behaviors in business' communication programs across multiple channels (Email, SMS, Push).
 <br>
 <br>
 **Codes**: https://github.com/vandoan226/Analytics-projects/blob/main/unsubscription-analysis.ipynb <br>
