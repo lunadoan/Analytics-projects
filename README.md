@@ -1,4 +1,4 @@
-**Hi! Welcome to my analytics portfolio!**
+# Hi there! Welcome to my analytics portfolio! 
 
 # About me <br>
 Van Doan, MBA <br>
