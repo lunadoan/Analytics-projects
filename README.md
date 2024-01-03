@@ -7,7 +7,7 @@ Hi! Welcome to my analytics portfolio!
 **Projects overview**
 - Customer feedback analysis <br>
 This project aims to identify customer pain points from customer feedback and answer the crucial question "What is the most serious customer pain?". This is a real-world business problem. The insights guides strategic product development for the business. <br>
-  Blog: [Analyzing customer experience with multilabel text classification]([https://github.com/vandoan226/Analytics-projects/blob/main/customer-feedback.ipynb](https://medium.com/@vandoan226/analyzing-customer-experience-with-multilabel-text-classification-545e80eb12d0)) <br>
+  Blog: [Analyzing customer experience with multilabel text classification](https://medium.com/@vandoan226/analyzing-customer-experience-with-multilabel-text-classification-545e80eb12d0)) <br>
 	Codes: [Click here](https://github.com/vandoan226/Analytics-projects/blob/main/customer-feedback.ipynb) <br>
  <br>
 - A/B testing for product development <br>
