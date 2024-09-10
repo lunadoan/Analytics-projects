@@ -20,7 +20,7 @@ Another example <br>
 
 ![alt text](images/spurious-causation.png)
 
-**Many ways to explain a "causation", even flip the direction of the relationship.**
+**Many ways to explain a "causation", even flip the direction of the relationship.** And that's why I'm interested in this field!
 
 #### See my causal projects below
 
@@ -39,10 +39,10 @@ Why not randomize (for the sake of simplicity)?
 
 [View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
 
-## (SQL) Call data analysis
+## 2. (SQL) Call data analysis
 
-## Data job market analysis 
+## 3. Data job market analysis 
 
-## Customer feedback analysis
+## 4. Customer feedback analysis
 
 
