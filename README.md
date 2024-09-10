@@ -22,16 +22,19 @@ Another example <br>
 
 **Many ways to explain a "causation", even flip the direction of the relationship.**
 
+#### See my causal projects below
+
 ### 1.1 Causal inference when randomization (A/B testing) is feasible
-Example: testing a feature launch, test a new drug.
+Example: testing one-click autopayment enrollment feature on conversion and retention
 
 [View my projects](Causal%20inference/AB%20testing%20is%20feasible)
 
 ### 1.2 Causal inference when randomization (A/B testing) is not feasible
-Example: testing a feature launch but costly to run experiment, or test a drug that has serious side effect (eg fatal death).
+Example: testing promotion effect on revenue during Xmas season
 
-Besides cost, here are other reasons for not to do randomization:
-- Unethical 
+Why not randomize (for the sake of simplicity)?
+- It's costly to run experiment
+- It's unethical 
 - Spliting user groups introduces bias
 
 [View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
