@@ -1,5 +1,5 @@
 # Hello, Welcome to my Analytics Portfolio! <br>
-Few things get to see the many sides of me like analysis projects do. There's the goofy, easy-going me, the critical and tough perfectionist, the indecisive thinker, and the determined problem-solver. Each brings out a different version of myself. <br>
+Few things get to see the many sides of me like analysis projects do. There's the goofy, easy-going me, the critical and tough perfectionist, the indecisive thinker, and the determined problem-solver. Each brings out different versions of myself. <br>
 
 What I love about analytics is the challenge of shifting between the big picture and the tiniest details - figuring out if a problem is worth solving, and then diving in to solve it. Whether it's the joy of automation or the grind of manual work to get sh*t done, I enjoy every single moment.
 
