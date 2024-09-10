@@ -14,19 +14,18 @@ People got divorce, sad, and consume margarine more (because fat taste makes the
 
 Another example <br>
 
-![alt text](images/spurious causation article.png)
+![alt text](images/spurious-causation-article.png)
 
 *Or it can be a complete reverse direction* <br>
 
-![alt text](images/spurious causation.png)
+![alt text](images/spurious-causation.png)
 
 **Many ways to explain a "causation", even flip the direction of the relationship.**
 
 ### 1.1 Causal inference when randomization (A/B testing) is feasible
 Example: testing a feature launch, test a new drug.
 
-
-[View my projects](Causal inference/AB testing is feasible)
+[View my projects](Causal%20inference/AB%20testing%20is%20feasible)
 
 ### 1.2 Causal inference when randomization (A/B testing) is not feasible
 Example: testing a feature launch but costly to run experiment, or test a drug that has serious side effect (eg fatal death).
@@ -35,7 +34,7 @@ Besides cost, here are other reasons for not to do randomization:
 - Unethical 
 - Spliting user groups introduces bias
 
-[View my projects](Causal inference/AB testing is not feasible)
+[View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
 
 ## (SQL) Call data analysis
 
