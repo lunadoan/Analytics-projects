@@ -6,23 +6,6 @@ What I love about analytics is the challenge of shifting between the big picture
 Welcome!
 _________
 ## 1. Causal inference 
-People got divorce, sad, and consume margarine more (because fat taste makes them happier). <br>
-
-![alt text](images/correlation-causation.png)
-
-*Or does it?* 
-
-Another example <br>
-
-![alt text](images/spurious-causation-article.png)
-
-*Or it can be a complete reverse direction* <br>
-
-![alt text](images/spurious-causation.png)
-
-**Many ways to explain a "causation", even flip the direction of the relationship.** And that's why I'm interested in this field!
-
-#### See my causal projects below
 
 ### 1.1 Causal inference when randomization (A/B testing) is feasible
 Example: testing one-click autopayment enrollment feature on conversion and retention
@@ -39,10 +22,28 @@ Why not randomize (for the sake of simplicity)?
 
 [View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
 
-## 2. (SQL) Call data analysis
+#### Why I'm interested in causal analysis? 
 
-## 3. Data job market analysis 
+People got divorce, sad, and consume margarine more (because fat taste makes them happier). <br>
 
-## 4. Customer feedback analysis
+![alt text](images/correlation-causation.png)
+
+*Or does it?* 
+
+Another example <br>
+
+![alt text](images/spurious-causation-article.png)
+
+*Or it can be a complete reverse direction* <br>
+
+![alt text](images/spurious-causation.png)
+
+**Many ways to explain a spurious causation, you can even flip the direction of the relationship.** And that's why I'm interested in this field!
+
+## 2. Natural Language Processing (NLP)
+
+### 2.1. Data job market analysis 
+
+### 2.2. Customer feedback analysis
 
 
