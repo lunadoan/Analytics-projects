@@ -5,7 +5,7 @@ What I love about analytics is the challenge of shifting between the big picture
 
 Welcome!
 _________
-## 1. Causal inference 
+## 1. Causal Inference
 
 ### 1.1 Causal inference when randomization (A/B testing) is feasible
 Example: testing one-click autopayment enrollment feature on conversion and retention
@@ -22,23 +22,23 @@ Why not randomize (for the sake of simplicity)?
 
 [View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
 
-#### Why I'm interested in causal analysis? 
+#### Just for fun: Why I'm so interested in causal analysis? 
 
-People got divorce, sad, and consume margarine more (because fat taste makes them happier). <br>
+Take a look at this, causation or correlation? <br>
 
 ![alt text](images/correlation-causation.png)
 
-*Or does it?* 
+If it weren't margarine sales and divorce, but app downloads and views after new page layout launch, would you assume the new release cause the drop in downloads?
 
-Another example <br>
+Another good example, an article from Washington Post <br>
 
 ![alt text](images/spurious-causation-article.png)
 
-*Or it can be a complete reverse direction* <br>
+*And oh, reverse direction works as well* <br>
 
 ![alt text](images/spurious-causation.png)
 
-**Many ways to explain a spurious causation, you can even flip the direction of the relationship.** And that's why I'm interested in this field!
+**Spurious causation is everywhere** And that's why I'm interested in causal inference!
 
 ## 2. Natural Language Processing (NLP)
 
