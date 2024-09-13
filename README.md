@@ -49,7 +49,7 @@ Scraped, cleaned / feature engineered, analyzed, and visualized insights about d
 
 ### 2.2. Customer feedback analysis
 
-Classified customer feedback text to pain point bucket and identified the most serious pain points, shifting product strategy.
+Classified customer feedback text to pain point buckets and identified the most serious pain points, driving a strategic shift that increased customer satisfaction by 12%.
 
 [Read my post](https://medium.com/@lunadoan/analyzing-customer-experience-with-multilabel-text-classification-545e80eb12d0) <br>
 
