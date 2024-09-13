@@ -32,7 +32,7 @@ Another good example, an article from Washington Post <br>
 
 ![alt text](images/spurious-causation-article.png)
 
-*And oh, reverse direction makes sense as well* <br>
+*And oh, reverse direction somehow... also makes sense* <br>
 
 ![alt text](images/spurious-causation.png)
 
