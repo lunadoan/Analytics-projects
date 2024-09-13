@@ -22,23 +22,19 @@ Why not randomize (for the sake of simplicity)?
 
 [View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
 
-#### Just for fun: Why I'm so interested in causal analysis? 
+#### For Fun: **Spurious causation is everywhere** 
 
-Take a look at this, causation or correlation? <br>
+If it weren't margarine sales and divorce, but app downloads and views after new page layout launch, would you assume the new release cause the drop in downloads? <br>
 
 ![alt text](images/correlation-causation.png)
-
-If it weren't margarine sales and divorce, but app downloads and views after new page layout launch, would you assume the new release cause the drop in downloads?
 
 Another good example, an article from Washington Post <br>
 
 ![alt text](images/spurious-causation-article.png)
 
-*And oh, reverse direction works as well* <br>
+*And oh, reverse direction makes sense as well* <br>
 
 ![alt text](images/spurious-causation.png)
-
-**Spurious causation is everywhere** And that's why I find causal inference fascinating!
 
 ## 2. Natural Language Processing (NLP)
 
