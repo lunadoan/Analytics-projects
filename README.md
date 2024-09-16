@@ -36,9 +36,17 @@ Another good example, an article from Washington Post <br>
 
 ![alt text](images/spurious-causation.png)
 
-## 2. Natural Language Processing (NLP)
+## 2. Machine Learning (ML)
+### 2.1 Predict user behavior
 
-### 2.1. Data job market analysis 
+### 2.2 Customer segmentation
+Segmented customers of a CPA service company based on customer interactions and number of annual reports, with Dimensionality reduction and K-Means.
+
+[View my projects](Machine%20learning/Customer%20segmentation)
+
+## 3. Natural Language Processing (NLP)
+
+### 3.1. Data job market analysis 
 Scraped, cleaned / feature engineered, analyzed, and visualized insights about data job market in 2024. 
 
 [Read my post](https://medium.com/@lunadoan/data-job-market-2024-insights-you-need-to-boost-your-career-d05c7e18a5c1) <br>
@@ -47,7 +55,7 @@ Scraped, cleaned / feature engineered, analyzed, and visualized insights about d
 
 ![alt text](images/data-jobs.png)
 
-### 2.2. Customer feedback analysis
+### 3.2. Customer feedback analysis
 
 Classified customer feedback text to pain point buckets and identified the most serious pain points, driving a strategic shift that increased customer satisfaction by 12%.
 
