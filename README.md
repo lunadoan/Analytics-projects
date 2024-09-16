@@ -44,6 +44,8 @@ Segmented customers of a CPA service company based on customer interactions and 
 
 [View my projects](Machine%20learning/Customer%20segmentation)
 
+![alt text](images/segmentation.png)
+
 ## 3. Natural Language Processing (NLP)
 
 ### 3.1. Data job market analysis 
