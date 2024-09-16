@@ -8,7 +8,7 @@ _________
 ## 1. Causal Inference
 
 ### 1.1 Experiment (A/B Testing)
-Example: testing one-click autopayment enrollment feature on conversion and retention, with OLS regression.
+Example: testing one-click autopayment enrollment feature on conversion and retention.
 
 [View my projects](Causal%20inference/Experiment)
 
