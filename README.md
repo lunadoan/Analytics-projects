@@ -42,6 +42,11 @@ Another good example, an article from Washington Post <br>
 
 ## 2. Machine Learning (ML)
 ### 2.1 Predict user behavior
+Predict free user converting to paid based on user activity and engagement for a fitness app.
+
+[View my projects](Machine%20learning/Predict%20user%20behavior)
+
+![alt text](images/user-engagement-vs-subscription.png)
 
 ### 2.2 Customer segmentation
 Segmented customers of a CPA service company based on customer interactions and number of annual reports, with Dimensionality reduction and K-Means.
