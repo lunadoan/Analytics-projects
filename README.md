@@ -8,9 +8,11 @@ _________
 ## 1. Causal Inference
 
 ### 1.1 Causal inference when randomization (A/B testing) is feasible
-Example: testing one-click autopayment enrollment feature on conversion and retention
+Example: testing one-click autopayment enrollment feature on conversion and retention, with OLS regression.
 
-[View my projects](Causal%20inference/AB%20testing%20is%20feasible)
+[View my projects](Causal%20inference/Experiment)
+
+![alt text](images/oneclick-autopay.png)
 
 ### 1.2 Causal inference when randomization (A/B testing) is not feasible
 Example: testing promotion effect on revenue during Xmas season
@@ -20,7 +22,7 @@ Why not randomize (for the sake of simplicity)?
 - It's unethical to run experiments
 - Spliting user groups introduces bias
 
-[View my projects](Causal%20inference/AB%20testing%20is%20not%20feasible)
+[View my projects](Causal%20inference/Quasi-experiment)
 
 #### For Fun: **Spurious causation is everywhere** 
 
