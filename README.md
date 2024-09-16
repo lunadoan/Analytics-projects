@@ -49,7 +49,7 @@ Predict free user converting to paid based on user activity and engagement on a 
 ![alt text](images/user-engagement-vs-subscription.png)
 
 ### 2.2 Customer segmentation
-Segmented customers of a CPA service company based on customer interactions and number of annual reports, with Dimensionality reduction and K-Means.
+Segmented customers of a CPA service company based on customer interactions and number of annual reports.
 
 [View my projects](Machine%20learning/Customer%20segmentation)
 
