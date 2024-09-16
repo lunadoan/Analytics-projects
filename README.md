@@ -7,14 +7,14 @@ Welcome!
 _________
 ## 1. Causal Inference
 
-### 1.1 Causal inference when randomization (A/B testing) is feasible
+### 1.1 Experiment (A/B Testing)
 Example: testing one-click autopayment enrollment feature on conversion and retention, with OLS regression.
 
 [View my projects](Causal%20inference/Experiment)
 
 ![alt text](images/one-click.png)
 
-### 1.2 Causal inference when randomization (A/B testing) is not feasible
+### 1.2 Quasi-experiment (randomization isn't feasible or costly)
 Example: testing promotion effect on revenue during Xmas season
 
 Why not randomize (for the sake of simplicity)?
