@@ -42,7 +42,7 @@ Another good example, an article from Washington Post <br>
 
 ## 2. Machine Learning (ML)
 ### 2.1 Predict user behavior
-Predict free user converting to paid based on user activity and engagement for a fitness app.
+Predict free user converting to paid based on user activity and engagement on a freemium fitness app.
 
 [View my projects](Machine%20learning/Predict%20user%20behavior)
 
