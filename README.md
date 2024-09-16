@@ -12,7 +12,7 @@ Example: testing one-click autopayment enrollment feature on conversion and rete
 
 [View my projects](Causal%20inference/Experiment)
 
-![alt text](images/oneclick-autopay.png)
+![alt text](images/one-click.png)
 
 ### 1.2 Causal inference when randomization (A/B testing) is not feasible
 Example: testing promotion effect on revenue during Xmas season
@@ -23,6 +23,8 @@ Why not randomize (for the sake of simplicity)?
 - Spliting user groups introduces bias
 
 [View my projects](Causal%20inference/Quasi-experiment)
+
+![alt text](images/xmas-sales.png)
 
 #### For Fun: **Spurious causation is everywhere** 
 
